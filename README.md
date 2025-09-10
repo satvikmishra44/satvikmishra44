@@ -11,7 +11,7 @@
 - 🛠️ Skilled in **MERN Stack**, **Generative AI**, and **Backend Development**.
 - ✍️ **Tech Content Writer** |
 - 🏆 Open-source contributor & **Freelancer** on Fiverr.
-- 📚 Gave birth to **Journelia**, **Watcher AI**, and **GitaBOT** through keyboard.
+- 📚 Gave birth to **Journelia**, **LokSadak**, and **GitaBOT** through keyboard.
 - 🚀 Looking for collaborations in **AI-driven apps** and **MERN stack projects**.
 - 💡 Exploring **multiple income streams** while preparing for placements!
 
